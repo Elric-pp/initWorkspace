@@ -45,5 +45,6 @@
     "gulp-ruby-sass": "^1.0.5",
     "gulp-uglify": "^1.2.0"
   },
-  "description": ""
+  "description": "",
+  "files": ["dist/js","dist/img","dist/css","src/script","src/style","src/images"]
 }
